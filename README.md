@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/C_constellation.gif" alt="Mohamed El-Morsi" width="100%" />
+  <img src="logo.png" alt="Mohamed El-Morsi" width="100%" />
   
   <p>
     <a href="https://github.com/Mohamed-Elmorsi">
@@ -15,7 +15,6 @@
 
   <h3>Engineering secure, scalable, and reliable cloud solutions.</h3>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
