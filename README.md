@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Mohamed El-Morsi" width="100%" />
+  <img src="C_constellation.svg" alt="Mohamed El-Morsi" width="100%" />
   
   <p>
     <a href="https://github.com/Mohamed-Elmorsi">
